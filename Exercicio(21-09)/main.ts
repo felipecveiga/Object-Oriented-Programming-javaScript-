@@ -1,0 +1,1 @@
+import { Pessoa } from "./ex1/pessoa";
